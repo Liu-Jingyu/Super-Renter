@@ -13,7 +13,6 @@ You can log in as a customer or as a clerk.
 * To log in as a customer, you can either follow the instructions to create a new account, or you can use `Driver Licence ID:
 123456`, `Password:123456` to log in. 
 * To log in as a clerk, you can use `Username: Violet`, `Password:199829` to log in.
-
 -----
 There are three functions for customers:<br>
 * View your vechicle reservations at home page.
@@ -25,3 +24,7 @@ There are three functions for customers:<br>
 There is one function for clerks:<br>
 * Return vechicles.
   * If the vechicle was not rented or the vechicle has been returned, some error messages will be displayed.
+
+-----
+Here is our log in page!<br>
+![](https://github.com/Liu-Jingyu/Super-Renter/blob/master/superrent/image/Screen%20Shot%202020-05-01%20at%207.27.31%20PM.png)
