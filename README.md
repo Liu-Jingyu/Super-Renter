@@ -23,7 +23,7 @@ There are three functions for customers:<br>
 
 There are three functions for clerks:<br>
 * Rent vechicle directly for clients.
-* Return vechicles.
+* Return vechicles and gererate a recipe for customer.
   * If the vechicle was not rented or the vechicle has been returned, some error messages will be displayed.
 * Generate daily rental and daily return report for single branch and for the whole company.
 
