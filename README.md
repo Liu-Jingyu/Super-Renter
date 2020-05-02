@@ -21,9 +21,11 @@ There are three functions for customers:<br>
 * Make a reservation (choose location, car type, start date, end date and fill the payment information).
   * A reservation number will be generated automatically if the reservation made sucessfully. Otherwise, some error messages will be displayed. <BR>
 
-There is one function for clerks:<br>
+There are three functions for clerks:<br>
+* Rent vechicle directly for clients.
 * Return vechicles.
   * If the vechicle was not rented or the vechicle has been returned, some error messages will be displayed.
+* Generate daily rental and daily return report for single branch and for the whole company.
 
 -----
 Here is our log in page!<br>
